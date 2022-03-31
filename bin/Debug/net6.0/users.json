@@ -1,0 +1,18 @@
+[
+  {
+    "Username": "admin",
+    "Password": "admin",
+    "Name": null,
+    "Surname": null,
+    "SecondName": null,
+    "Balance": 0
+  },
+  {
+    "Username": "Tigran",
+    "Password": "tigran",
+    "Name": "Tigran",
+    "Surname": "Arustamov",
+    "SecondName": "Vagramovich",
+    "Balance": 1000
+  }
+]

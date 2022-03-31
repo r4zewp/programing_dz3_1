@@ -1,0 +1,53 @@
+{
+  "$type": "System.Collections.Generic.List`1[[Hall, CinemaDZ3]], System.Private.CoreLib",
+  "$values": [
+    {
+      "$type": "BigHall, CinemaDZ3",
+      "HallType": "Большой",
+      "Number": 1,
+      "NumberOfSitsAndRows": {
+        "$type": "System.Int32[], System.Private.CoreLib",
+        "$values": [
+          1,
+          2
+        ]
+      },
+      "SchemeOfSits": {
+        "$type": "System.Int32[,], System.Private.CoreLib",
+        "$values": [
+          [
+            300,
+            300
+          ]
+        ]
+      },
+      "FilmsShown": null
+    },
+    {
+      "$type": "BigHall, CinemaDZ3",
+      "HallType": "Большой",
+      "Number": 2,
+      "NumberOfSitsAndRows": {
+        "$type": "System.Int32[], System.Private.CoreLib",
+        "$values": [
+          2,
+          2
+        ]
+      },
+      "SchemeOfSits": {
+        "$type": "System.Int32[,], System.Private.CoreLib",
+        "$values": [
+          [
+            300,
+            300
+          ],
+          [
+            300,
+            300
+          ]
+        ]
+      },
+      "FilmsShown": null
+    }
+  ]
+}

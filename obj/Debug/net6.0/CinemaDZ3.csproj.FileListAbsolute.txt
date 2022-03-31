@@ -1,0 +1,17 @@
+C:\Users\marij\source\repos\CinemaDZ3\CinemaDZ3\bin\Debug\net6.0\CinemaDZ3.exe
+C:\Users\marij\source\repos\CinemaDZ3\CinemaDZ3\bin\Debug\net6.0\CinemaDZ3.deps.json
+C:\Users\marij\source\repos\CinemaDZ3\CinemaDZ3\bin\Debug\net6.0\CinemaDZ3.runtimeconfig.json
+C:\Users\marij\source\repos\CinemaDZ3\CinemaDZ3\bin\Debug\net6.0\CinemaDZ3.dll
+C:\Users\marij\source\repos\CinemaDZ3\CinemaDZ3\bin\Debug\net6.0\ref\CinemaDZ3.dll
+C:\Users\marij\source\repos\CinemaDZ3\CinemaDZ3\bin\Debug\net6.0\CinemaDZ3.pdb
+C:\Users\marij\source\repos\CinemaDZ3\CinemaDZ3\obj\Debug\net6.0\CinemaDZ3.csproj.AssemblyReference.cache
+C:\Users\marij\source\repos\CinemaDZ3\CinemaDZ3\obj\Debug\net6.0\CinemaDZ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marij\source\repos\CinemaDZ3\CinemaDZ3\obj\Debug\net6.0\CinemaDZ3.AssemblyInfoInputs.cache
+C:\Users\marij\source\repos\CinemaDZ3\CinemaDZ3\obj\Debug\net6.0\CinemaDZ3.AssemblyInfo.cs
+C:\Users\marij\source\repos\CinemaDZ3\CinemaDZ3\obj\Debug\net6.0\CinemaDZ3.csproj.CoreCompileInputs.cache
+C:\Users\marij\source\repos\CinemaDZ3\CinemaDZ3\obj\Debug\net6.0\CinemaDZ3.dll
+C:\Users\marij\source\repos\CinemaDZ3\CinemaDZ3\obj\Debug\net6.0\ref\CinemaDZ3.dll
+C:\Users\marij\source\repos\CinemaDZ3\CinemaDZ3\obj\Debug\net6.0\CinemaDZ3.pdb
+C:\Users\marij\source\repos\CinemaDZ3\CinemaDZ3\obj\Debug\net6.0\CinemaDZ3.genruntimeconfig.cache
+C:\Users\marij\source\repos\CinemaDZ3\CinemaDZ3\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\marij\source\repos\CinemaDZ3\CinemaDZ3\obj\Debug\net6.0\CinemaDZ3.csproj.CopyComplete

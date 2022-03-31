@@ -1,0 +1,299 @@
+{
+  "$type": "System.Collections.Generic.List`1[[Show, CinemaDZ3]], System.Private.CoreLib",
+  "$values": [
+    {
+      "$type": "Show, CinemaDZ3",
+      "Hall": 1,
+      "Film": "2",
+      "Date": "2022-04-02T00:00:00",
+      "AgeLimit": 12,
+      "Tickets": {
+        "$type": "System.Collections.Generic.List`1[[Ticket, CinemaDZ3]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Ticket, CinemaDZ3",
+            "OwnerName": null,
+            "OwnerSurname": null,
+            "OwnerSName": null,
+            "Price": 400,
+            "Date": "2022-04-02T00:00:00",
+            "Film": "2",
+            "AgeLimit": 12,
+            "IsBought": false,
+            "HallNumber": 1
+          },
+          {
+            "$type": "Ticket, CinemaDZ3",
+            "OwnerName": null,
+            "OwnerSurname": null,
+            "OwnerSName": null,
+            "Price": 400,
+            "Date": "2022-04-02T00:00:00",
+            "Film": "2",
+            "AgeLimit": 12,
+            "IsBought": false,
+            "HallNumber": 1
+          }
+        ]
+      },
+      "AnyFreePlaces": null
+    },
+    {
+      "$type": "Show, CinemaDZ3",
+      "Hall": 2,
+      "Film": "2",
+      "Date": "2022-04-02T00:00:00",
+      "AgeLimit": 12,
+      "Tickets": {
+        "$type": "System.Collections.Generic.List`1[[Ticket, CinemaDZ3]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Ticket, CinemaDZ3",
+            "OwnerName": null,
+            "OwnerSurname": null,
+            "OwnerSName": null,
+            "Price": 400,
+            "Date": "2022-04-02T00:00:00",
+            "Film": "2",
+            "AgeLimit": 12,
+            "IsBought": false,
+            "HallNumber": 2
+          },
+          {
+            "$type": "Ticket, CinemaDZ3",
+            "OwnerName": null,
+            "OwnerSurname": null,
+            "OwnerSName": null,
+            "Price": 400,
+            "Date": "2022-04-02T00:00:00",
+            "Film": "2",
+            "AgeLimit": 12,
+            "IsBought": false,
+            "HallNumber": 2
+          },
+          {
+            "$type": "Ticket, CinemaDZ3",
+            "OwnerName": null,
+            "OwnerSurname": null,
+            "OwnerSName": null,
+            "Price": 400,
+            "Date": "2022-04-02T00:00:00",
+            "Film": "2",
+            "AgeLimit": 12,
+            "IsBought": false,
+            "HallNumber": 2
+          },
+          {
+            "$type": "Ticket, CinemaDZ3",
+            "OwnerName": null,
+            "OwnerSurname": null,
+            "OwnerSName": null,
+            "Price": 400,
+            "Date": "2022-04-02T00:00:00",
+            "Film": "2",
+            "AgeLimit": 12,
+            "IsBought": false,
+            "HallNumber": 2
+          }
+        ]
+      },
+      "AnyFreePlaces": null
+    },
+    {
+      "$type": "Show, CinemaDZ3",
+      "Hall": 1,
+      "Film": "Ампир V",
+      "Date": "2022-04-02T00:00:00",
+      "AgeLimit": 12,
+      "Tickets": {
+        "$type": "System.Collections.Generic.List`1[[Ticket, CinemaDZ3]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Ticket, CinemaDZ3",
+            "OwnerName": null,
+            "OwnerSurname": null,
+            "OwnerSName": null,
+            "Price": 200,
+            "Date": "2022-04-02T00:00:00",
+            "Film": "Ампир V",
+            "AgeLimit": 12,
+            "IsBought": false,
+            "HallNumber": 1
+          },
+          {
+            "$type": "Ticket, CinemaDZ3",
+            "OwnerName": null,
+            "OwnerSurname": null,
+            "OwnerSName": null,
+            "Price": 200,
+            "Date": "2022-04-02T00:00:00",
+            "Film": "Ампир V",
+            "AgeLimit": 12,
+            "IsBought": false,
+            "HallNumber": 1
+          }
+        ]
+      },
+      "AnyFreePlaces": null
+    },
+    {
+      "$type": "Show, CinemaDZ3",
+      "Hall": 2,
+      "Film": "Ампир V",
+      "Date": "2022-04-02T00:00:00",
+      "AgeLimit": 12,
+      "Tickets": {
+        "$type": "System.Collections.Generic.List`1[[Ticket, CinemaDZ3]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Ticket, CinemaDZ3",
+            "OwnerName": null,
+            "OwnerSurname": null,
+            "OwnerSName": null,
+            "Price": 200,
+            "Date": "2022-04-02T00:00:00",
+            "Film": "Ампир V",
+            "AgeLimit": 12,
+            "IsBought": false,
+            "HallNumber": 2
+          },
+          {
+            "$type": "Ticket, CinemaDZ3",
+            "OwnerName": null,
+            "OwnerSurname": null,
+            "OwnerSName": null,
+            "Price": 200,
+            "Date": "2022-04-02T00:00:00",
+            "Film": "Ампир V",
+            "AgeLimit": 12,
+            "IsBought": false,
+            "HallNumber": 2
+          },
+          {
+            "$type": "Ticket, CinemaDZ3",
+            "OwnerName": null,
+            "OwnerSurname": null,
+            "OwnerSName": null,
+            "Price": 200,
+            "Date": "2022-04-02T00:00:00",
+            "Film": "Ампир V",
+            "AgeLimit": 12,
+            "IsBought": false,
+            "HallNumber": 2
+          },
+          {
+            "$type": "Ticket, CinemaDZ3",
+            "OwnerName": null,
+            "OwnerSurname": null,
+            "OwnerSName": null,
+            "Price": 200,
+            "Date": "2022-04-02T00:00:00",
+            "Film": "Ампир V",
+            "AgeLimit": 12,
+            "IsBought": false,
+            "HallNumber": 2
+          }
+        ]
+      },
+      "AnyFreePlaces": null
+    },
+    {
+      "$type": "Show, CinemaDZ3",
+      "Hall": 1,
+      "Film": "Ампир V",
+      "Date": "2022-04-02T13:00:00",
+      "AgeLimit": 12,
+      "Tickets": {
+        "$type": "System.Collections.Generic.List`1[[Ticket, CinemaDZ3]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Ticket, CinemaDZ3",
+            "OwnerName": null,
+            "OwnerSurname": null,
+            "OwnerSName": null,
+            "Price": 200,
+            "Date": "2022-04-02T13:00:00",
+            "Film": "Ампир V",
+            "AgeLimit": 12,
+            "IsBought": false,
+            "HallNumber": 1
+          },
+          {
+            "$type": "Ticket, CinemaDZ3",
+            "OwnerName": null,
+            "OwnerSurname": null,
+            "OwnerSName": null,
+            "Price": 200,
+            "Date": "2022-04-02T13:00:00",
+            "Film": "Ампир V",
+            "AgeLimit": 12,
+            "IsBought": false,
+            "HallNumber": 1
+          }
+        ]
+      },
+      "AnyFreePlaces": null
+    },
+    {
+      "$type": "Show, CinemaDZ3",
+      "Hall": 2,
+      "Film": "Ампир V",
+      "Date": "2022-04-02T13:00:00",
+      "AgeLimit": 12,
+      "Tickets": {
+        "$type": "System.Collections.Generic.List`1[[Ticket, CinemaDZ3]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Ticket, CinemaDZ3",
+            "OwnerName": null,
+            "OwnerSurname": null,
+            "OwnerSName": null,
+            "Price": 200,
+            "Date": "2022-04-02T13:00:00",
+            "Film": "Ампир V",
+            "AgeLimit": 12,
+            "IsBought": false,
+            "HallNumber": 2
+          },
+          {
+            "$type": "Ticket, CinemaDZ3",
+            "OwnerName": null,
+            "OwnerSurname": null,
+            "OwnerSName": null,
+            "Price": 200,
+            "Date": "2022-04-02T13:00:00",
+            "Film": "Ампир V",
+            "AgeLimit": 12,
+            "IsBought": false,
+            "HallNumber": 2
+          },
+          {
+            "$type": "Ticket, CinemaDZ3",
+            "OwnerName": null,
+            "OwnerSurname": null,
+            "OwnerSName": null,
+            "Price": 200,
+            "Date": "2022-04-02T13:00:00",
+            "Film": "Ампир V",
+            "AgeLimit": 12,
+            "IsBought": false,
+            "HallNumber": 2
+          },
+          {
+            "$type": "Ticket, CinemaDZ3",
+            "OwnerName": null,
+            "OwnerSurname": null,
+            "OwnerSName": null,
+            "Price": 200,
+            "Date": "2022-04-02T13:00:00",
+            "Film": "Ампир V",
+            "AgeLimit": 12,
+            "IsBought": false,
+            "HallNumber": 2
+          }
+        ]
+      },
+      "AnyFreePlaces": null
+    }
+  ]
+}

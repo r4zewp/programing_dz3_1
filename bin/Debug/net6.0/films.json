@@ -1,0 +1,23 @@
+{
+  "$type": "System.Collections.Generic.List`1[[Film, CinemaDZ3]], System.Private.CoreLib",
+  "$values": [
+    {
+      "$type": "Preview, CinemaDZ3",
+      "Name": "2",
+      "AgeLimit": 12,
+      "FilmType": "Предпоказ"
+    },
+    {
+      "$type": "Film, CinemaDZ3",
+      "Name": "Ампир V",
+      "AgeLimit": 12,
+      "FilmType": "Обычный"
+    },
+    {
+      "$type": "Film, CinemaDZ3",
+      "Name": "Ампир V",
+      "AgeLimit": 12,
+      "FilmType": "Обычный"
+    }
+  ]
+}
